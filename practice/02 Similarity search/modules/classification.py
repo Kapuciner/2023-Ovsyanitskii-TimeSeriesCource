@@ -13,7 +13,7 @@ class TimeSeriesKNN:
     """
     KNN Time Series Classifier.
 
-    Parameters
+    Parameters 
     ----------
     n_neighbors : int, default = 3
         Number of neighbors.
